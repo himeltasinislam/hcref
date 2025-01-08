@@ -1,0 +1,14 @@
+.macpro, .ipad, .iphone{
+    max-width: 100%;
+}
+.map{
+    width: 600px;
+    height: 399px;
+}
+.maphead{
+   border: 3px solid aqua;
+}
+  .macpro, .iphone {
+ width: auto;
+ height: 600px;
+}
